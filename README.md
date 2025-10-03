@@ -54,7 +54,7 @@ pip install -r requirements.txt
 or amazon_data.csv (Local)
 
 5. You can modify the search term and number of pages to scrape:
-BASE_URL = "https://www.amazon.com/s?k=playstation+5&page="
+BASE_URL = "https://www.amazon.com/s?k=playstation+5&crid=3G12O79UMR7B1&sprefix=playstation+5%2Caps%2C414&ref=nb_sb_noss_1"
 TOTAL_PAGES = 5
 
 6. Output Example
