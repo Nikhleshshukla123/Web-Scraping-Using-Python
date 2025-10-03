@@ -41,8 +41,8 @@ amazon_scraper/
 ---
 
 ## Usage
-1. Clone the repository or open the notebook in Kaggle/Local Jupyter.  
-2. Install the required libraries:
+1. Clone the repository or oprn the notebook in kaggle/local jupyter.
+2. Install the required libraries
 
 ```bash
 pip install -r requirements.txt
